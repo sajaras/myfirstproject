@@ -1,5 +1,8 @@
-void main()
+void main() { print "hello world";
+}
+
+int area(int l,int b)
 {
-print "hello world";
+ return l*b;
 }
 
